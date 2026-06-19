@@ -1,0 +1,63 @@
+# Maven build output — вся папка target та її вміст
+target/
+target/**
+target/Lab_Ex_11-1.0.jar
+target/classes/
+target/maven-archiver/
+target/maven-status/
+target/test-classes/
+target/generated-sources/
+
+# Compiled Java bytecode
+*.class
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# NetBeans
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# Eclipse
+.classpath
+.project
+.settings/
+bin/
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+*~
+
+# Logs and temp files
+*.log
+*.tmp
+*.swp
+*.swo
+
+# Demo screenshots (not source code)
+screenshots/
